@@ -9,7 +9,8 @@
 > How to Start?
 
 1. npm install
-2. npm run server
+2. npm run server - To run server alone
+3. npm run dev - To run both client and server
 
 > Things to remember for BackEnd development
 
